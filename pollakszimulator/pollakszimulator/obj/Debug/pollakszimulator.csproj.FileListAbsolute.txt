@@ -1,0 +1,10 @@
+D:\otto\pollakszimulator\pollakszimulator\bin\Debug\pollakszimulator.exe.config
+D:\otto\pollakszimulator\pollakszimulator\bin\Debug\pollakszimulator.exe
+D:\otto\pollakszimulator\pollakszimulator\bin\Debug\pollakszimulator.pdb
+D:\otto\pollakszimulator\pollakszimulator\obj\Debug\pollakszimulator.csprojAssemblyReference.cache
+D:\otto\pollakszimulator\pollakszimulator\obj\Debug\pollakszimulator.Form1.resources
+D:\otto\pollakszimulator\pollakszimulator\obj\Debug\pollakszimulator.Properties.Resources.resources
+D:\otto\pollakszimulator\pollakszimulator\obj\Debug\pollakszimulator.csproj.GenerateResource.cache
+D:\otto\pollakszimulator\pollakszimulator\obj\Debug\pollakszimulator.csproj.CoreCompileInputs.cache
+D:\otto\pollakszimulator\pollakszimulator\obj\Debug\pollakszimulator.exe
+D:\otto\pollakszimulator\pollakszimulator\obj\Debug\pollakszimulator.pdb
